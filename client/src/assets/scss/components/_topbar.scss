@@ -1,0 +1,12 @@
+.topbar{
+    background: $darkgrey;
+    padding: 1em;
+}
+.link{
+    font-weight: 300;
+    color: white;
+    margin-left: 1em;
+    &.active{
+        font-weight: 700;
+    }
+}
